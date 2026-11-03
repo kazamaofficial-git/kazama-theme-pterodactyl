@@ -1,0 +1,1 @@
+<div class="kz-copyright">&copy; {{ date('Y') }} {{ config('kazama.brand') }} &middot; Theme oleh <a href="{{ config('kazama.developer_telegram') }}" target="_blank" rel="noopener">{{ config('kazama.developer') }}</a> &middot; Powered by Pterodactyl&reg;</div>

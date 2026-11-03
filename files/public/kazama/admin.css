@@ -1,0 +1,19 @@
+/* Kazama Cloud - skin panel admin */
+.skin-blue .main-header .navbar,.skin-blue .main-header .logo{background:#0b1220!important}
+.skin-blue .main-header .logo:hover{background:#101a30!important}
+.skin-blue .main-sidebar,.skin-blue .left-side{background:#070b14!important}
+.skin-blue .sidebar-menu>li.header{background:#0b1220;color:#8a97b2}
+.skin-blue .sidebar-menu>li.active>a,.skin-blue .sidebar-menu>li:hover>a{background:#101a30;border-left-color:#2563eb;color:#fff}
+.content-wrapper,.right-side{background:#0f172a!important}
+.content-header>h1,.content-header>h1>small,.content-header>.breadcrumb>li>a{color:#e6edf7!important}
+.box{background:#1e293b;border-top-color:#2563eb;color:#e6edf7}
+.box-header.with-border,.box-footer{border-color:#334155;background:transparent}
+.box .table>thead>tr>th,.box .table>tbody>tr>td{border-color:#334155}
+.box .table-hover>tbody>tr:hover{background:#243247}
+.box code{background:#e2e8f0;color:#0f172a}
+.box .text-muted,.box small{color:#94a3b8!important}
+.box .form-control,.modal .form-control{background:#0f172a;border-color:#334155;color:#e6edf7}
+.modal-content{background:#1e293b;color:#e6edf7}
+.modal-header,.modal-footer{border-color:#334155}
+.kz-copyright{position:fixed;right:12px;bottom:6px;z-index:5;font-size:11px;color:#94a3b8;background:rgba(7,11,20,.8);padding:2px 8px;border-radius:6px}
+.kz-copyright a{color:#60a5fa}
